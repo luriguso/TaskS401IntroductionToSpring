@@ -1,0 +1,9 @@
+[submodule "Level1_Maven"]
+	path = Level1_Maven
+	url = https://github.com/luriguso/S04T01N01.git
+[submodule "Level2_Gradle"]
+	path = Level2_Gradle
+	url = https://github.com/luriguso/S04T01N02.git
+[submodule "Level3_Postman"]
+	path = Level3_Postman
+	url = https://github.com/luriguso/S04T01N03.git
